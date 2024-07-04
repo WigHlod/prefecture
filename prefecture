@@ -279,4 +279,4 @@ esac
 }
 
 # Clean workspace and start the script.. LAUNCH !!
-rm -f /tmp/ca_bundle.crt cert_*.crt && fn_run_mode
+rm -f /tmp/ca_bundle.crt /tmp/cert_*.crt && fn_run_mode
